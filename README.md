@@ -15,6 +15,14 @@ Feel free to star this repo and share it with your pals if it helped.
 
 # Forensics
 
+- [FTK Imager](https://accessdata.com/product-download/ftk-imager-version-4-5)
+- [Redline](https://www.fireeye.com/services/freeware/redline.html)
+- [Rekall](https://github.com/google/rekall)
+- [Volatility Framework](https://www.volatilityfoundation.org/)
+- [Autopsy](https://www.autopsy.com/download/)
+- [Sleuth Kit](https://www.sleuthkit.org/sleuthkit/)
+- []()
+- 
 # Reverse Engineering
 
 - [Java Decompiler - JD-GUI](http://java-decompiler.github.io/)
@@ -33,3 +41,4 @@ _JD-GUI is a standalone graphical utility that displays Java source codes of “
 - [A-Packets - Online pcap file analyzer](https://apackets.com/)
 
 Allow read and view pcap file, analyze IPv4/IPv6, HTTP, Telnet, FTP, DNS, SSDP, WPA protocols, build map of network structure and nodes activity graph, sniff and analyze network traffic and other pcap data.
+- [Arkime](https://arkime.com/)
