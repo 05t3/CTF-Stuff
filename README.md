@@ -31,6 +31,13 @@ Feel free to star this repo and share it with your pals if it helped.
 _JD-GUI is a standalone graphical utility that displays Java source codes of “.class” files. You can browse the reconstructed source code with the JD-GUI for instant access to methods and fields._ 
 
 # OSINT
+- [Google Images](https://www.google.com/imghp)
+- [Yandex Images](https://yandex.com/images/)
+- [Pim Eyes](https://pimeyes.com/en)
+- [Sherlock](https://github.com/sherlock-project/sherlock)
+- [OSINT Framework](https://osintframework.com)
+- [shodan](https://shodan.io)
+- [hunter](https://hunter.io)
 
 # Pwn
 
