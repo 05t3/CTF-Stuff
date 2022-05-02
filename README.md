@@ -11,9 +11,10 @@ Feel free to star this repo and share it with your pals if it helped.
 
 # Steganography
 
-## QR Codes
+## QR Code Tools
 
 - [zbarimg](https://www.systutorials.com/docs/linux/man/1-zbarimg/) (CLI tool)
+- [qrcodescan.in](https://qrcodescan.in/)
 
 For each specified image file _zbarimg_ scans the image for bar codes and prints any decoded data to stdout.
 
